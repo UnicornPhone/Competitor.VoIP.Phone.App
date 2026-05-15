@@ -1,0 +1,4 @@
+- https://play.google.com/store/apps/details?id=com.textmeinc.textme
+- https://play.google.com/store/apps/details?id=com.textmeinc.textme3
+- https://play.google.com/store/apps/details?id=com.enflick.android.TextNow
+- https://play.google.com/store/apps/details?id=com.textmeinc.freetone
