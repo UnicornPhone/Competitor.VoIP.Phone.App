@@ -20,3 +20,14 @@
 - https://play.google.com/store/apps/details?id=com.bpmobile.second.phone
 - https://play.google.com/store/apps/details?id=me.talkyou.app.im
 - https://play.google.com/store/apps/details?id=com.pinger.textfree.call
+- https://play.google.com/store/apps/details?id=com.mmcallsapp.duovoice.android
+- https://play.google.com/store/apps/details?id=com.wephoneapp
+- https://play.google.com/store/apps/details?id=com.wecall.free.global.im
+- https://play.google.com/store/apps/details?id=freecall.phone.free.call.wifi.calling
+- https://play.google.com/store/apps/details?id=com.mmcallsapp.duocallpro.android
+- https://play.google.com/store/apps/details?id=com.widget7.wifi.calling
+- https://play.google.com/store/apps/details?id=com.gogii.textplus
+- https://play.google.com/store/apps/details?id=com.talknow.free.text.me.now.second.phone.number.burner.app
+- https://play.google.com/store/apps/details?id=com.messenger.sms.messages
+- https://play.google.com/store/apps/details?id=com.textsms.chatssms.smsmessengapp
+- https://play.google.com/store/search?q=freetone&c=apps
