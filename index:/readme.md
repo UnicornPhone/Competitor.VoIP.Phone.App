@@ -31,3 +31,4 @@
 - https://play.google.com/store/apps/details?id=com.messenger.sms.messages
 - https://play.google.com/store/apps/details?id=com.textsms.chatssms.smsmessengapp
 - https://play.google.com/store/search?q=freetone&c=apps
+- https://play.google.com/store/apps/details?id=com.talkatone.android
