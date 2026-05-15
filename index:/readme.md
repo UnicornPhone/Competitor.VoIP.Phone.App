@@ -1,3 +1,4 @@
+- https://play.google.com/store/apps/details?id=com.pinger.textfree
 - https://play.google.com/store/apps/details?id=com.textmeinc.textme
 - https://play.google.com/store/apps/details?id=app.call.com
 - https://play.google.com/store/apps/details?id=com.adhoclabs.burner
