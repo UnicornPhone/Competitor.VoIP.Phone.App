@@ -1,1 +1,2 @@
-- https://play.google.com/store/search?q=freetone&c=apps
+- https://play.google.com/store/apps/details?id=com.textmeinc.freetone
+- https://play.google.com/store/apps/details?id=com.talkatone.android
