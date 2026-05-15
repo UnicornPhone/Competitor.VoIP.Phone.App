@@ -6,7 +6,8 @@
 - https://play.google.com/store/apps/details?id=com.oceansecondnum
 - https://play.google.com/store/apps/details?id=tel.pingme
 - https://play.google.com/store/apps/details?id=com.unlistedmobile.unlisted
-- 
+- https://play.google.com/store/search?q=sideline&c=apps&utm_source=na_Med
+- https://play.google.com/store/apps/details?id=com.mysecondline.app&utm_source=na_Med
 - https://play.google.com/store/apps/details?id=com.textmeinc.textme3
 - https://play.google.com/store/apps/details?id=com.enflick.android.TextNow
 - https://play.google.com/store/apps/details?id=com.textmeinc.freetone
