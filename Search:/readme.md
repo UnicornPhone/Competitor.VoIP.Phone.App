@@ -1,1 +1,3 @@
 - https://play.google.com/store/search?q=2nd%20number&c=apps&utm_source=na_Med
+- https://play.google.com/store/search?q=second+number
+- https://play.google.com/store/search?q=second+number+for+call+and+text&c=apps
