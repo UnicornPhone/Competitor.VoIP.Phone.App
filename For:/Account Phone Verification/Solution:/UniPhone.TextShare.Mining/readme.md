@@ -1,1 +1,1 @@
-https://github.com/UnicornPhone/TextShare
+https://github.com/UnicornPhone/TextShare.Market
