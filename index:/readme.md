@@ -14,4 +14,8 @@
 - https://play.google.com/store/apps/details?id=com.enflick.android.tn2ndLine
 - https://play.google.com/store/apps/details?id=com.pinger.textfree
 - https://play.google.com/store/apps/details?id=com.bpmobile.second.phone
-- 
+- https://play.google.com/store/apps/details?id=me.dingtone.app.im
+- https://play.google.com/store/apps/details?id=com.enflick.android.tn2ndLine
+- https://play.google.com/store/apps/details?id=com.bpmobile.second.phone
+- https://play.google.com/store/apps/details?id=me.talkyou.app.im
+- https://play.google.com/store/apps/details?id=com.pinger.textfree.call
